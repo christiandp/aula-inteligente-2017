@@ -2,7 +2,7 @@
 
 > It's a home automation project build with Arduino UNO, carried out at the UTEPSA university in 2017 and winner of the 1st place in the JETS Science and Technology fair.
 
-![Aula Inteligente](http://url/to/img.png)
+![Aula Inteligente](https://github.com/christiandp/aula-inteligente-2017/tree/master/images/img.jpg)
 
 ## Features 
 
