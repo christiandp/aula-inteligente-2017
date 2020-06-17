@@ -48,4 +48,4 @@
 
 > MIT
 
-** Free for all of you **
+**Free for all of you**
